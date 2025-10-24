@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "patient_id": 3,
+        "descrizione": "Manipolazione vertebrale",
+        "completato": true
+    },
+    {
+        "id": 3,
+        "patient_id": 4,
+        "descrizione": "Massaggio terapeutico",
+        "completato": true
+    },
+    {
+        "id": 4,
+        "patient_id": 5,
+        "descrizione": "Mobilizzazione dei tessuti molli",
+        "completato": true
+    },
+    {
+        "id": 5,
+        "patient_id": 4,
+        "descrizione": "male al braccio",
+        "completato": true
+    },
+    {
+        "id": 6,
+        "patient_id": 6,
+        "descrizione": "Mobilizzazione articolare",
+        "completato": false
+    },
+    {
+        "id": 7,
+        "patient_id": 4,
+        "descrizione": "Dolore Lombare",
+        "completato": false
+    }
+]

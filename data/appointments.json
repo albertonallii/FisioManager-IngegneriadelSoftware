@@ -1,0 +1,145 @@
+[
+    {
+        "id": 2,
+        "patient_id": 7,
+        "physio_id": 2,
+        "data": "2025-12-24",
+        "ora": "15:00",
+        "trattamento": "Dolore cervicale",
+        "stato": "annullato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 5,
+        "patient_id": 7,
+        "physio_id": 2,
+        "data": "2025-12-18",
+        "ora": "15:00",
+        "trattamento": "Dolore cervicale",
+        "stato": "annullato",
+        "note_cliniche": "",
+        "promemoria_inviato": true
+    },
+    {
+        "id": 6,
+        "patient_id": 7,
+        "physio_id": 2,
+        "data": "2025-10-19",
+        "ora": "15:00",
+        "trattamento": "Dolore cervicale",
+        "stato": "completato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 7,
+        "patient_id": 3,
+        "physio_id": 2,
+        "data": "2025-10-16",
+        "ora": "15:00",
+        "trattamento": "Dolore cervicale",
+        "stato": "completato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 8,
+        "patient_id": 4,
+        "physio_id": 2,
+        "data": "2025-09-18",
+        "ora": "15:00",
+        "trattamento": "Dolore cervicale",
+        "stato": "completato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 9,
+        "patient_id": 5,
+        "physio_id": 2,
+        "data": "2025-09-10",
+        "ora": "15:00",
+        "trattamento": "Preparazione pre-stagionale",
+        "stato": "completato",
+        "note_cliniche": "gdg",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 11,
+        "patient_id": 4,
+        "physio_id": 2,
+        "data": "2025-04-24",
+        "ora": "13:23",
+        "trattamento": "Massaggio terapeutico",
+        "stato": "completato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 12,
+        "patient_id": 7,
+        "physio_id": 2,
+        "data": "2025-10-07",
+        "ora": "15:45",
+        "trattamento": "Massaggio terapeutico",
+        "stato": "completato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 13,
+        "patient_id": 5,
+        "physio_id": 2,
+        "data": "2025-11-05",
+        "ora": "19:00",
+        "trattamento": "Seduta post allenamento",
+        "stato": "programmato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 14,
+        "patient_id": 5,
+        "physio_id": 2,
+        "data": "2025-11-10",
+        "ora": "19:00",
+        "trattamento": "Seduta post allenamento",
+        "stato": "programmato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 15,
+        "patient_id": 5,
+        "physio_id": 2,
+        "data": "2025-11-15",
+        "ora": "19:00",
+        "trattamento": "Seduta post allenamento",
+        "stato": "programmato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 16,
+        "patient_id": 5,
+        "physio_id": 2,
+        "data": "2025-11-16",
+        "ora": "19:00",
+        "trattamento": "Seduta post allenamento",
+        "stato": "annullato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    },
+    {
+        "id": 17,
+        "patient_id": 5,
+        "physio_id": 2,
+        "data": "2025-12-19",
+        "ora": "19:00",
+        "trattamento": "Seduta post allenamento",
+        "stato": "completato",
+        "note_cliniche": "",
+        "promemoria_inviato": false
+    }
+]

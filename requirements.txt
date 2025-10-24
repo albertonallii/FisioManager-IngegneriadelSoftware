@@ -1,0 +1,5 @@
+﻿tinydb
+pytest
+pytest-cov
+flake8
+tk

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 3,
+        "owner_id": 1,
+        "nome": "Alberto",
+        "cognome": "Nalli",
+        "codice_fiscale": "NLLLRT1234",
+        "email": "n.alberto@admin.com",
+        "telefono": "",
+        "peso": 75.0,
+        "altezza": 185.0,
+        "note_cliniche": ""
+    },
+    {
+        "id": 4,
+        "owner_id": 1,
+        "nome": "Nicolas",
+        "cognome": "Di Tizio",
+        "codice_fiscale": "DTZNCLS1234",
+        "email": "dt.nicolas@admin.com",
+        "telefono": "",
+        "peso": 70.0,
+        "altezza": 180.0,
+        "note_cliniche": ""
+    },
+    {
+        "id": 5,
+        "owner_id": 1,
+        "nome": "Andrea",
+        "cognome": "Cocco",
+        "codice_fiscale": "CCCNDR1234",
+        "email": "c.andrea@admin.com",
+        "telefono": "",
+        "peso": 90.0,
+        "altezza": 185.0,
+        "note_cliniche": ""
+    },
+    {
+        "id": 6,
+        "owner_id": 1,
+        "nome": "Simone",
+        "cognome": "Marcucci",
+        "codice_fiscale": "MRCSMN1234",
+        "email": "m.simone@admin.com",
+        "telefono": "333746398",
+        "peso": 65.0,
+        "altezza": 175.0,
+        "note_cliniche": ""
+    },
+    {
+        "id": 7,
+        "owner_id": 1,
+        "nome": "Giuseppe",
+        "cognome": "Rapino",
+        "codice_fiscale": "RPNGSPP1234",
+        "email": "grerg@gmail.com",
+        "telefono": "54543534",
+        "peso": 65.0,
+        "altezza": 175.0,
+        "note_cliniche": "problema ginocchio"
+    }
+]

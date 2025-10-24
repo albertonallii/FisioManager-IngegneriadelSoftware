@@ -1,0 +1,56 @@
+[
+    {
+        "id": 7,
+        "appointment_id": 9,
+        "data_emissione": "2025-09-29",
+        "importo": 25.0,
+        "stato_pagamento": "pagata",
+        "promemoria_inviato": true,
+        "pagamento_notificato": true
+    },
+    {
+        "id": 8,
+        "appointment_id": 11,
+        "data_emissione": "2025-09-29",
+        "importo": 25.0,
+        "stato_pagamento": "pagata",
+        "promemoria_inviato": true,
+        "pagamento_notificato": false
+    },
+    {
+        "id": 9,
+        "appointment_id": 8,
+        "data_emissione": "2025-10-01",
+        "importo": 35.0,
+        "stato_pagamento": "pagata",
+        "promemoria_inviato": true,
+        "pagamento_notificato": false
+    },
+    {
+        "id": 10,
+        "appointment_id": 7,
+        "data_emissione": "2025-10-02",
+        "importo": 40.0,
+        "stato_pagamento": "pagata",
+        "promemoria_inviato": false,
+        "pagamento_notificato": true
+    },
+    {
+        "id": 11,
+        "appointment_id": 12,
+        "data_emissione": "2025-10-09",
+        "importo": 25.0,
+        "stato_pagamento": "pagata",
+        "promemoria_inviato": true,
+        "pagamento_notificato": false
+    },
+    {
+        "id": 12,
+        "appointment_id": 6,
+        "data_emissione": "2025-10-15",
+        "importo": 40.0,
+        "stato_pagamento": "non_pagata",
+        "promemoria_inviato": true,
+        "pagamento_notificato": false
+    }
+]

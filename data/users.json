@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "nome": "Davide Traini",
+        "email": "fisio@test.com",
+        "password": "$2b$12$QGnnZnSkW8KI4hWtZD4Bl.mHO9zaSabr8GekVocZtecBJZH1mh712",
+        "ruolo": "fisioterapista"
+    },
+    {
+        "id": 7,
+        "nome": "Admin",
+        "email": "admin@admin.com",
+        "password": "$2b$12$EvxPVcigypGEqrCw9j2b1OCQlU.mxGtsSAePulTOxeT3XJ.MFQR56",
+        "ruolo": "amministratore"
+    }
+]
